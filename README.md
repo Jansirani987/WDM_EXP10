@@ -33,3 +33,6 @@
 
 
 ### Result:
+
+Thus, Sentimental Analysis for the given data using Rapidminer is done successfully.
+
